@@ -21,6 +21,10 @@
   - SQL structure and basic mysql/slqite queries; types of NoSQLs
   - Software scalability: vertical scalability vs horizontal scalability
   - RESTful vs SOAP api architecture
+  - Basic Caching/TTL
+  - Message queues and basic asynchronous architecture
+  - Asynchronous vs Synchronous
+  - Half-Duplex vs Full-Duplex
 ## What I want to learn
   - Ruby/Rails
   - Dockr
