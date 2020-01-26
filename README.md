@@ -31,10 +31,10 @@
   - C/C++
   - CDN
 ### What I may want to learn/implement in the future
-  *Blockchain/Cryptocurrency
-  *Functional Programming
-  *NoSQL
-  *Database Sharding
+  - Blockchain/Cryptocurrency
+  - Functional Programming
+  - NoSQL
+  - Database Sharding
 ### Tools I want to use
-  *CI/CD
+  - CI/CD
 
