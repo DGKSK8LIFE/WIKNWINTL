@@ -20,7 +20,7 @@
   - Linux: Commands and CLI;Window Management/Desktop Environment configuration and ricing
   - SQL structure and basic mysql/slqite queries; types of NoSQLs
   - Software scalability: vertical scalability vs horizontal scalability
-  - RESTful vs SOAP api architecture
+  - RESTful vs SOAP API architecture
   - Basic Caching/TTL
   - Message queues and basic asynchronous architecture
   - Asynchronous vs Synchronous
