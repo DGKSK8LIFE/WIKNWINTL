@@ -21,7 +21,7 @@ What I know and what I need to learn, (WIKNWINTL), is a todo list of concepts I'
   *Software scalability: vertical scalability vs horizontal scalability
   *RESTful vs SOAP api architecture
 ## What I want to learn
-  *Ruby -> Rails
+  *Ruby/Rails
   *Docker
   *Microservices (kubernetes)
   *Api Creation (RESTful)
