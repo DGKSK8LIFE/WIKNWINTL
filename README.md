@@ -27,7 +27,7 @@
   - Half-Duplex vs Full-Duplex
 ## What I want to learn
   - Ruby/Rails
-  - Dockr
+  - Docker
   - Microservices (Kubernetes)
   - Api Creation (RESTful)
   - Proper OAUTH
