@@ -34,6 +34,7 @@
   - GraphQL integration
   - C/C++
   - CDN
+  - Webhooks
 ### What I may want to learn/implement in the future
   - Blockchain/Cryptocurrency
   - Functional Programming
