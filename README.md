@@ -35,7 +35,7 @@
   - C/C++
   - CDN
   - Webhooks
-  - React
+  - ReactJS
 ### What I may want to learn/implement in the future
   - Blockchain/Cryptocurrency
   - Functional Programming
