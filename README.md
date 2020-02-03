@@ -25,6 +25,8 @@
   - Message queues and basic asynchronous architecture
   - Asynchronous vs Synchronous
   - Half-Duplex vs Full-Duplex
+  - Mustache HTML Templating
+  - Very, very basic Jinja2 Html Templating
 ## What I want to learn
   - Ruby/Rails
   - Docker
