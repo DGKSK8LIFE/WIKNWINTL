@@ -1,4 +1,5 @@
 # WIKNWINTL
+
 **What I know and what I need to learn, (WIKNWINTL), is a todo list of concepts I'd like to learn and my knowledge notation medium.**
 
 ## What I know
@@ -27,7 +28,9 @@
   - Half-Duplex vs Full-Duplex
   - Mustache HTML Templating
   - Very, very basic Jinja2 Html Templating
+  
 ## What I want to learn
+
   - Ruby/Rails
   - Docker
   - Microservices (Kubernetes)
@@ -38,11 +41,15 @@
   - CDN
   - Webhooks
   - ReactJS
+  
 ### What I may want to learn/implement in the future
+
   - Blockchain/Cryptocurrency
   - Functional Programming
   - NoSQL
   - Database Sharding
+  
 ### Tools I want to use
+
   - CI/CD
 
