@@ -42,7 +42,7 @@
   - CDN
   - Webhooks
   - ReactJS
-  - Deployment Options
+  - Deployment
   
  ### What I am in the proces of learning
  
