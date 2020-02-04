@@ -43,6 +43,11 @@
   - Webhooks
   - ReactJS
   
+ ### What I am in the proces of learning
+ 
+  - Go Revel framework
+  - SQL server
+  
 ### What I may want to learn/implement in the future
 
   - Blockchain/Cryptocurrency
