@@ -42,6 +42,7 @@
   - CDN
   - Webhooks
   - ReactJS
+  - Deployment Options
   
  ### What I am in the proces of learning
  
@@ -58,4 +59,5 @@
 ### Tools I want to use
 
   - CI/CD
+ 
 
