@@ -28,6 +28,7 @@
   - Half-Duplex vs Full-Duplex
   - Mustache HTML Templating
   - Very, very basic Jinja2 Html Templating
+  - MVC in architectural context
   
 ## What I want to learn
 
