@@ -38,7 +38,6 @@
   - Api Creation (RESTful)
   - Proper OAUTH
   - GraphQL integration
-  - C/C++
   - CDN
   - Webhooks
   - ReactJS
