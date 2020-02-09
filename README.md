@@ -36,7 +36,7 @@
   - Docker
   - Microservices (Kubernetes)
   - Api Creation (RESTful)
-  - Proper OAUTH
+  - OAUTH
   - GraphQL integration
   - CDN
   - Webhooks
