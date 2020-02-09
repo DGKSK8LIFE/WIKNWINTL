@@ -24,7 +24,7 @@
   - RESTful vs SOAP API architecture
   - Basic Caching/TTL
   - Message queues and basic asynchronous architecture
-  - Asynchronous vs Synchronous
+  - Asynchronous vs Synchronous Architecture
   - Half-Duplex vs Full-Duplex
   - Mustache HTML Templating
   - Very, very basic Jinja2 Html Templating
