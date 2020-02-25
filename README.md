@@ -29,6 +29,7 @@
   - Mustache HTML Templating
   - Very, very basic Jinja2 Html Templating
   - MVC in architectural context
+  - Go Revel framework essential features
   
 ## What I want to learn
 
@@ -45,8 +46,7 @@
   
  ### What I am in the proces of learning
  
-  - Go Revel framework
-  - SQL server
+ - SQL server
   
 ### What I may want to learn/implement in the future
 
