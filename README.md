@@ -50,8 +50,6 @@
   
 ### What I may want to learn/implement in the future
 
-  - Blockchain/Cryptocurrency
-  - Functional Programming
   - NoSQL
   - Database Sharding
   
