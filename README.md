@@ -30,6 +30,7 @@
   - Very, very basic Jinja2 Html Templating
   - MVC in architectural context
   - Go Revel framework essential features
+  - JSON
   
 ## What I want to learn
 
@@ -52,6 +53,11 @@
 
   - NoSQL
   - Database Sharding
+  - gRPC
+  - UDP
+  - SOAP
+  - XML
+  
   
 ### Tools I want to use
 
