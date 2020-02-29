@@ -45,7 +45,7 @@
   - ReactJS
   - Deployment
   
- ### What I am in the proces of learning
+ ### What I am in the process of learning
  
  - SQL server
   
