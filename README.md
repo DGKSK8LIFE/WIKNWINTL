@@ -28,7 +28,9 @@
   - Half-Duplex vs Full-Duplex
   - Mustache HTML Templating
   - Very, very basic Jinja2 Html Templating
+  - Go templating engine
   - MVC in architectural context
+  - Implementing MVC in a webapplication
   - Go Revel framework essential features
   - JSON
   
