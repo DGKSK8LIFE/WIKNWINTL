@@ -44,12 +44,12 @@
   - GraphQL integration
   - CDN
   - Webhooks
-  - ReactJS
   - Deployment
   
  ### What I am in the process of learning
  
- - SQL server
+ - SQL server (more commands)
+ - ReactJS
   
 ### What I may want to learn/implement in the future
 
