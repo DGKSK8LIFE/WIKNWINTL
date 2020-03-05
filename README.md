@@ -58,7 +58,6 @@
   - UDP
   - SOAP
   - XML
-  - React Native
   
 ### Tools I want to use
 
