@@ -49,7 +49,6 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - ReactJS
   
 ### What I may want to learn/implement in the future
 
