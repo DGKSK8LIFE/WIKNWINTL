@@ -50,12 +50,12 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
+ - gRPC
   
 ### What I may want to learn/implement in the future
 
   - NoSQL
   - Database Sharding
-  - gRPC
   - UDP
   - SOAP
   - XML
