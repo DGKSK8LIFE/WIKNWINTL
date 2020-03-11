@@ -46,12 +46,13 @@
   - CDN
   - Webhooks
   - Deployment
+  - gRPC
+  - Testing
   
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - gRPC
-  
+
 ### What I may want to learn/implement in the future
 
   - NoSQL
