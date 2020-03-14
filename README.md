@@ -48,6 +48,7 @@
   - Deployment
   - gRPC
   - Testing
+  - Game development (especially networking aspect)
   
  ### What I am in the process of learning
  
