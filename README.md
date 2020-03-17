@@ -11,7 +11,7 @@
   - HTML/CSS
   - TCP/IP (essentially how they work)
   - HTTP 
-  - Websockets (application layer interfacing through socketIO)
+  - Websockets (application layer interfacing through SocketIO)
   - DNS
   - Basic SSL/TLS
   - SSH Architecture
