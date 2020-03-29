@@ -70,6 +70,3 @@
 ### Tools I want to use
 
   - CI/CD
-  - Shell scripting for daily automation
- 
-
