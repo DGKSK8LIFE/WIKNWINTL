@@ -33,7 +33,7 @@
   - Implementing MVC in a webapplication
   - Go Revel framework essential features
   - JSON
-  - Blockchain (architecture)
+  - Some shell scripting
   
 ## What I want to learn
 
