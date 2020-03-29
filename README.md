@@ -31,7 +31,7 @@
   - Go templating engine
   - MVC in architectural context
   - Implementing MVC in a webapplication
-  - Go Revel framework essential features
+  - Go Revel framework
   - JSON
   - Some shell scripting
   
@@ -56,6 +56,8 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
+ - More shell scripting
+ - Peer programming (already done/doing, improving a lot though...)
 
 ### What I may want to learn/implement in the future
 
