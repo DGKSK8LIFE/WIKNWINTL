@@ -49,8 +49,6 @@
   - gRPC
   - Testing
   - Game development (especially networking aspect)
-    - Pixi.JS
-    - Roblox Game Engine
   - Implementations of computer science in agriculture
   
  ### What I am in the process of learning
