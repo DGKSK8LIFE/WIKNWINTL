@@ -16,7 +16,7 @@
   - Basic SSL/TLS
   - SSH Architecture
   - Differences between TCP and UDP
-  - Basic Markdown Syntax
+  - Markdown Syntax
   - Computer Hardware
   - Linux: Commands and CLI;Window Management/Desktop Environment configuration and ricing
   - SQL structure and basic mysql/slqite queries; types of NoSQLs
