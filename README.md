@@ -34,6 +34,8 @@
   - Go Revel framework
   - JSON
   - Some shell scripting
+  - Docker basic concept/use
+  - Kuburnetes basic concept/use
   
 ## What I want to learn
 
