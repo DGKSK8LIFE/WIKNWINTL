@@ -40,6 +40,7 @@
   
 ## What I want to learn
 
+  - React
   - Ruby/Rails
   - Docker
   - Microservices (Kubernetes)
