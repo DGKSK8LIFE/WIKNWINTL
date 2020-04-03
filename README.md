@@ -36,13 +36,13 @@
   - Some shell scripting
   - Docker basic concept/use
   - Kuburnetes basic concept/use
+  - Api Creation (RESTful)
   
 ## What I want to learn
 
   - Ruby/Rails
   - Docker
   - Microservices (Kubernetes)
-  - Api Creation (RESTful)
   - OAUTH
   - GraphQL integration
   - CDN
