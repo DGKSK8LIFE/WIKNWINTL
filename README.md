@@ -59,6 +59,7 @@
  - SQL server (more commands)
  - More shell scripting
  - Peer programming (already done/doing, improving a lot though...)
+ - React
 
 ### What I may want to learn/implement in the future
 
