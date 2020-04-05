@@ -12,7 +12,7 @@
   - TCP/IP (essentially how they work)
   - HTTP 
   - Websockets (application layer interfacing through SocketIO)
-  - DNS
+  - DNS 
   - Basic SSL/TLS
   - SSH Architecture
   - Differences between TCP and UDP
@@ -40,7 +40,6 @@
   
 ## What I want to learn
 
-  - React
   - Ruby/Rails
   - Docker
   - Microservices (Kubernetes)
