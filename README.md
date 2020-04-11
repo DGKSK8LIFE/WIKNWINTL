@@ -38,6 +38,8 @@
   - Kubernetes basic concept/use
   - Api Creation (RESTful)
   - Programming as a team (improving a lot...)
+  - Hackathon participation
+  - Robotics competition participation (FRC and Vex)
   
 ## What I want to learn
 
