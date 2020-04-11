@@ -35,8 +35,9 @@
   - JSON
   - Some shell scripting
   - Docker basic concept/use
-  - Kuburnetes basic concept/use
+  - Kubernetes basic concept/use
   - Api Creation (RESTful)
+  - Programming as a team (improving a lot...)
   
 ## What I want to learn
 
@@ -56,7 +57,6 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - Peer programming (already done/doing, improving a lot though...)
  - React
  - gRPC/protobufs
  
