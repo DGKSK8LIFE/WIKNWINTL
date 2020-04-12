@@ -56,6 +56,7 @@
   - Game development (especially networking aspect)
   - Implementations of computer science in agriculture
   - Basic MySQL
+  - TypeScript
   
  ### What I am in the process of learning
  
