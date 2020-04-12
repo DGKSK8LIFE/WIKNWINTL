@@ -55,6 +55,7 @@
   - Testing
   - Game development (especially networking aspect)
   - Implementations of computer science in agriculture
+  - Basic MySQL
   
  ### What I am in the process of learning
  
