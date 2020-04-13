@@ -57,13 +57,13 @@
   - Implementations of computer science in agriculture
   - Basic MySQL
   - TypeScript
-  - Go Gin
+  - gRPC/protobufs
   
  ### What I am in the process of learning
  
  - SQL server (more commands)
  - React
- - gRPC/protobufs
+ - Go Gin
  
 
 ### What I may want to learn/implement in the future
