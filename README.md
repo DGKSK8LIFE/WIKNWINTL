@@ -57,6 +57,7 @@
   - Implementations of computer science in agriculture
   - Basic MySQL
   - TypeScript
+  - Go Gin
   
  ### What I am in the process of learning
  
