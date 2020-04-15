@@ -35,7 +35,6 @@
   - JSON
   - Some shell scripting
   - Docker basic concept/use
-  - Kubernetes basic concept/use
   - Api Creation (RESTful)
   - Programming as a team (improving a lot...)
   - Hackathon participation
