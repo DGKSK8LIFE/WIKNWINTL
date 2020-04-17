@@ -54,7 +54,6 @@
   - Testing
   - Game development (especially networking aspect)
   - Implementations of computer science in agriculture
-  - Basic MySQL
   - TypeScript
   - gRPC/protobufs
   
