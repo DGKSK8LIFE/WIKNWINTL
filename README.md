@@ -41,6 +41,7 @@
   - Robotics competition participation (FRC and Vex)
   - A bit of DiscordAPI (bit rusty though)
   - Redis basic concept
+  - Git
   
 ## What I want to learn
 
