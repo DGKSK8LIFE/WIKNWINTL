@@ -76,6 +76,7 @@
   - SOAP
   - XML
   - PHP??!!?? o_o
+  - C++
   
 ### Tools I want to use
 
