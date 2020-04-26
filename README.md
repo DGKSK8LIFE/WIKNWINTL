@@ -59,6 +59,7 @@
   - Implementations of computer science in agriculture
   - TypeScript
   - gRPC/protobufs
+  - AutoHotKey
   
  ### What I am in the process of learning
  
