@@ -64,10 +64,7 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - React
  - Go Gin
- - Docker
- 
 
 ### What I may want to learn/implement in the future
 
