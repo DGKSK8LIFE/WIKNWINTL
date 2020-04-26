@@ -2,7 +2,7 @@
 
 **What I know and what I need to learn, (WIKNWINTL), is a todo list of concepts I'd like to learn; my computer science knowledge notation medium.**
 
-## What I know
+## What I know/have worked with
 
   - Python + Python Flask
   - Go
@@ -60,6 +60,7 @@
   - TypeScript
   - gRPC/protobufs
   - AutoHotKey
+  - GoDot
   
  ### What I am in the process of learning
  
