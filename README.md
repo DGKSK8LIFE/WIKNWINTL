@@ -42,6 +42,7 @@
   - A bit of DiscordAPI (bit rusty though)
   - Redis concept/functionality
   - Git
+  - Concept of/Creating a fetch api
   
 ## What I want to learn
 
