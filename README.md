@@ -62,6 +62,7 @@
   - gRPC/protobufs
   - AutoHotKey
   - GoDot
+  - GDSCRIPT
   
  ### What I am in the process of learning
  
