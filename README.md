@@ -61,14 +61,11 @@
   - TypeScript
   - gRPC/protobufs
   - AutoHotKey
-  - GoDot
-  - GDSCRIPT
   
  ### What I am in the process of learning
  
  - SQL server (more commands)
  - Go Gin
- - godot/godot script
 
 ### What I may want to learn/implement in the future
 
