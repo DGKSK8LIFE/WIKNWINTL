@@ -61,6 +61,7 @@
   - TypeScript
   - gRPC/protobufs
   - AutoHotKey
+  - Redis
   
  ### What I am in the process of learning
  
