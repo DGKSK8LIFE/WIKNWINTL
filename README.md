@@ -43,6 +43,7 @@
   - Redis concept/functionality
   - Git
   - Concept of/Creating a fetch api
+  - Java Spring
   
 ## What I want to learn
 
