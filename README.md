@@ -62,6 +62,9 @@
   - gRPC/protobufs
   - AutoHotKey
   - Redis
+  - React
+  - Webpack
+  - TailwindCSS
   
  ### What I am in the process of learning
  
