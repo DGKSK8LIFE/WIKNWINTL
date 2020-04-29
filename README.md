@@ -68,7 +68,6 @@
  
  - SQL server (more commands)
  - Go Gin
- - Unity
 
 ### What I may want to learn/implement in the future
 
