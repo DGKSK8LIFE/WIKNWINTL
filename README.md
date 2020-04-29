@@ -50,7 +50,7 @@
   - Docker
   - Microservices (Kubernetes)
   - OAUTH
-  - GraphQL integration
+  - GraphQL
   - CDN
   - Webhooks
   - Deployment
