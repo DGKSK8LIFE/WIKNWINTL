@@ -43,8 +43,7 @@
   - Redis concept/functionality
   - Git
   - Concept of/Creating a fetch api
-  - Java Spring
-  
+
 ## What I want to learn
 
   - Ruby/Rails
@@ -78,6 +77,8 @@
   - XML
   - PHP??!!?? o_o
   - C++
+  - Java Spring
+  
   
 ### Tools I want to use
 
