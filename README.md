@@ -70,6 +70,7 @@
  
  - SQL server (more commands)
  - Go Gin
+ - GraphQL
 
 ### What I may want to learn/implement in the future
 
