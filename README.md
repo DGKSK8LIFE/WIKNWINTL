@@ -49,7 +49,7 @@
 
   - Ruby/Rails
   - Docker
-  - Microservices (Kubernetes)
+  - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
   - GraphQL
   - CDN
