@@ -86,7 +86,7 @@
   - Raft
   - MariaDB
   - CockRoachDB
-  
+  - Cassandra
   
 ### Tools I want to use
 
