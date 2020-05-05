@@ -72,6 +72,8 @@
  - SQL server (more commands)
  - Go Gin
  - GraphQL
+ - React
+ - Typescript
 
 ### What I may want to learn/implement in the future
 
