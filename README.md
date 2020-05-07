@@ -74,6 +74,7 @@
  - GraphQL
  - React
  - Typescript
+ - AWS
 
 ### What I may want to learn/implement in the future
 
