@@ -44,6 +44,8 @@
   - Git
   - Concept of/Creating a fetch api
   - Working remote (school)
+  - React
+  - Go Gin
 
 ## What I want to learn
 
@@ -66,13 +68,12 @@
   - React
   - Webpack
   - TailwindCSS
+  - Writing interpreters 
   
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - Go Gin
  - GraphQL
- - React
  - Typescript
  - AWS
 
