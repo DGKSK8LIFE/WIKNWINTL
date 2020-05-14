@@ -46,6 +46,7 @@
   - Working remote (school)
   - React
   - Go Gin
+  - Pub/Sub architecture
 
 ## What I want to learn
 
