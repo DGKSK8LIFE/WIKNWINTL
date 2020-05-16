@@ -47,6 +47,7 @@
   - React
   - Go Gin
   - Pub/Sub architecture
+  - Garbage collection (concept)
 
 ## What I want to learn
 
