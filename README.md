@@ -48,6 +48,7 @@
   - Go Gin
   - Pub/Sub architecture
   - Garbage collection (concept)
+  - Netlify
 
 ## What I want to learn
 
