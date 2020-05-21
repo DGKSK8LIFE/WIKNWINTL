@@ -70,7 +70,9 @@
   - React
   - Webpack
   - TailwindCSS
-  - Writing interpreters 
+  - Writing interpreters
+  - Deno
+  
   
  ### What I am in the process of learning
  
