@@ -73,6 +73,7 @@
   - TailwindCSS
   - Writing interpreters
   - Deno
+  - Elixir
   
   
  ### What I am in the process of learning
