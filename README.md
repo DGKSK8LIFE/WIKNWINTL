@@ -49,7 +49,8 @@
   - Pub/Sub architecture
   - Garbage collection (concept)
   - Netlify
-
+  - Deno 
+  
 ## What I want to learn
 
   - Ruby/Rails
