@@ -75,6 +75,7 @@
   - Writing interpreters
   - Deno
   - Elixir
+  - Scala
   
   
  ### What I am in the process of learning
