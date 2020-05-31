@@ -50,6 +50,7 @@
   - Garbage collection (concept)
   - Netlify
   - Deno 
+  - Graphql
   
 ## What I want to learn
 
@@ -57,19 +58,17 @@
   - Docker
   - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
-  - GraphQL
   - CDN
   - Webhooks
   - Deployment
   - gRPC
-  - Testing
+  - Test automation
   - Game development (especially networking aspect)
   - Implementations of computer science in agriculture
   - TypeScript
   - gRPC/protobufs
   - AutoHotKey
   - Redis
-  - React
   - Webpack
   - TailwindCSS
   - Writing interpreters
