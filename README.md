@@ -74,6 +74,7 @@
   - Writing interpreters
   - Deno
   - Elixir
+  - Rust
   
  ### What I am in the process of learning
  
