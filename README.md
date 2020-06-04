@@ -51,6 +51,7 @@
   - Netlify
   - Deno 
   - Graphql
+  - CSV
   
 ## What I want to learn
 
