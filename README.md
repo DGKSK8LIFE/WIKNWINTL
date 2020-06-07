@@ -52,6 +52,7 @@
   - Deno 
   - Graphql
   - CSV
+  - Typescript
   
 ## What I want to learn
 
@@ -64,7 +65,6 @@
   - Deployment
   - gRPC
   - Test automation
-  - Game development (especially networking aspect)
   - Implementations of computer science in agriculture
   - TypeScript
   - gRPC/protobufs
@@ -81,9 +81,6 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
- - GraphQL
- - Typescript
- - AWS
 
 ### What I may want to learn/implement in the future
 
