@@ -81,6 +81,8 @@
  ### What I am in the process of learning
  
  - SQL server (more commands)
+ - Docker
+ - Container orchestration
 
 ### What I may want to learn/implement in the future
 
