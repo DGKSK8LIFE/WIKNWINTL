@@ -76,6 +76,7 @@
   - Deno
   - Elixir
   - Rust
+  - Writing compilers
   
  ### What I am in the process of learning
  
