@@ -97,4 +97,4 @@
   
 ### Tools I want to use
 
-  - CI/CD
+  - Github Action
