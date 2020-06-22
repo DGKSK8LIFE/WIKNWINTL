@@ -34,13 +34,13 @@
   - Go Revel framework
   - JSON
   - Some shell scripting
-  - Docker basic concept/use
+  - Docker
   - Api Creation (RESTful)
   - Programming as a team (improving a lot...)
   - Hackathon participation
   - Robotics competition participation (FRC and Vex)
   - A bit of DiscordAPI (bit rusty though)
-  - Redis concept/functionality
+  - Redis 
   - Git
   - Concept of/Creating a fetch api
   - Working remote (school)
@@ -53,11 +53,12 @@
   - Graphql
   - CSV
   - Typescript
+  - Container orchestration (docker compose)
+  - NextJS
   
 ## What I want to learn
 
   - Ruby/Rails
-  - Docker
   - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
   - CDN
@@ -66,10 +67,8 @@
   - gRPC
   - Test automation
   - Implementations of computer science in agriculture
-  - TypeScript
   - gRPC/protobufs
   - AutoHotKey
-  - Redis
   - Webpack
   - TailwindCSS
   - Writing interpreters
@@ -77,13 +76,10 @@
   - Elixir
   - Rust
   - Writing compilers
-  
- ### What I am in the process of learning
- 
- - SQL server (more commands)
- - Docker
- - Container orchestration
 
+  
+### What I am in the process of learning
+ 
 ### What I may want to learn/implement in the future
 
   - NoSQL
