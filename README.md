@@ -56,6 +56,7 @@
   - Container orchestration (docker compose)
   - NextJS
   - RTMP
+  - Docker-Compose
   
 ## What I want to learn
 
