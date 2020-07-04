@@ -19,7 +19,9 @@
   - Markdown Syntax
   - Computer Hardware
   - Linux: Commands and CLI;Window Management/Desktop Environment configuration and ricing
-  - SQL structure and basic mysql/slqite queries; types of NoSQLs
+  - SQL:
+  - MYSQL
+  - SQLITE
   - Software scalability: vertical scalability vs horizontal scalability
   - RESTful vs SOAP API architecture
   - Basic Caching/TTL
