@@ -62,6 +62,7 @@
   - Live streaming architecture
   - protobuf/gRPC architecture
   - Apollo client
+  - Environment variables
   
 ## What I want to learn
 
