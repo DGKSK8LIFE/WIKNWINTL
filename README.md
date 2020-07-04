@@ -57,6 +57,7 @@
   - NextJS
   - RTMP
   - Docker-Compose
+  - Live streaming architecture
   
 ## What I want to learn
 
