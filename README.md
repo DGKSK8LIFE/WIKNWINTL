@@ -55,6 +55,7 @@
   - Typescript
   - Container orchestration (docker compose)
   - NextJS
+  - RTMP
   
 ## What I want to learn
 
