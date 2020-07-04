@@ -61,6 +61,7 @@
   - Docker-Compose
   - Live streaming architecture
   - protobuf/gRPC architecture
+  - Apollo client
   
 ## What I want to learn
 
