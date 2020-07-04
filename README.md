@@ -63,6 +63,7 @@
   - protobuf/gRPC architecture
   - Apollo client
   - Environment variables
+  - YAML
   
 ## What I want to learn
 
