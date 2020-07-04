@@ -60,6 +60,7 @@
   - RTMP
   - Docker-Compose
   - Live streaming architecture
+  - protobuf/gRPC architecture
   
 ## What I want to learn
 
