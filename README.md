@@ -64,6 +64,7 @@
   - Apollo client
   - Environment variables
   - YAML
+  - BigO notation
   
 ## What I want to learn
 
