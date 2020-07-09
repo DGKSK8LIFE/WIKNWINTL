@@ -87,7 +87,7 @@
   - Rust
   - Writing compilers
   - Minecraft modding
-
+  - Kotlin
   
 ### What I am in the process of learning
 
