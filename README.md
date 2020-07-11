@@ -83,7 +83,6 @@
   - AutoHotKey
   - Webpack
   - TailwindCSS
-  - Writing interpreters
   - Deno
   - Elixir
   - Rust
@@ -103,7 +102,7 @@
   - SOAP
   - XML
   - PHP??!!?? o_o
-  - C++
+  - C++/gcc
   - Java Spring
   - Raft
   - MariaDB
@@ -112,4 +111,4 @@
   
 ### Tools I want to use
 
-  - Github Action
+  - Github Actions
