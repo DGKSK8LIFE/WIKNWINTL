@@ -65,6 +65,8 @@
   - Environment variables
   - YAML
   - BigO notation
+  - REGEX
+  - Writing interpreters
   
 ## What I want to learn
 
@@ -92,7 +94,6 @@
 ### What I am in the process of learning
 
   - Scala
-  - Writing interpreters
  
 ### What I may want to learn/implement in the future
 
