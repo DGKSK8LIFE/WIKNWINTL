@@ -89,6 +89,7 @@
   - Writing compilers
   - Minecraft modding
   - Kotlin
+  - Graphic design/blender
   
 ### What I am in the process of learning
 
