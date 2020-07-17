@@ -67,6 +67,7 @@
   - BigO notation
   - REGEX
   - Writing interpreters
+  - Onshape
   
 ## What I want to learn
 
@@ -93,7 +94,6 @@
   
 ### What I am in the process of learning
 
-  - Scala
  
 ### What I may want to learn/implement in the future
 
