@@ -91,6 +91,7 @@
   - Minecraft modding
   - Kotlin
   - Graphic design/blender
+  - Scala
   
 ### What I am in the process of learning
 
