@@ -68,6 +68,7 @@
   - REGEX
   - Writing interpreters
   - Onshape
+  - MomentJS
   
 ## What I want to learn
 
@@ -92,6 +93,7 @@
   - Kotlin
   - Graphic design/blender
   - Scala
+  - VueJS
   
 ### What I am in the process of learning
 
