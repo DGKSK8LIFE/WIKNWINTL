@@ -94,6 +94,7 @@
   - Graphic design/blender
   - Scala
   - VueJS
+  - Firebase
   
 ### What I am in the process of learning
 
