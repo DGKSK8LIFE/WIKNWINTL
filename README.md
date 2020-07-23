@@ -95,6 +95,7 @@
   - Scala
   - VueJS
   - Firebase
+  - Terraform
   
 ### What I am in the process of learning
 
