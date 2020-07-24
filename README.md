@@ -69,6 +69,8 @@
   - Writing interpreters
   - Onshape
   - MomentJS
+  - Google cloud platform
+  - Google translate api
   
 ## What I want to learn
 
