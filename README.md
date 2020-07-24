@@ -100,6 +100,8 @@
   - Firebase
   - Terraform
   - C#
+  - NGINX
+  - Traefik
   
 ### What I am in the process of learning
 
