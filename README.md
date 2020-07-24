@@ -71,6 +71,7 @@
   - MomentJS
   - Google cloud platform
   - Google translate api
+  - Webhooks (concept/architecture)
   
 ## What I want to learn
 
