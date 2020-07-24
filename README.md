@@ -102,6 +102,9 @@
   - C#
   - NGINX
   - Traefik
+  - NuxtJS
+  - VueX
+  - React-Native
   
 ### What I am in the process of learning
 
