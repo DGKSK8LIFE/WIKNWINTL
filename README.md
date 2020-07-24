@@ -41,7 +41,7 @@
   - Programming as a team (improving a lot...)
   - Hackathon participation
   - Robotics competition participation (FRC and Vex)
-  - A bit of DiscordAPI (bit rusty though)
+  - DiscordAPI
   - Redis 
   - Git
   - Concept of/Creating a fetch api
