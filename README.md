@@ -98,6 +98,7 @@
   - VueJS
   - Firebase
   - Terraform
+  - C#
   
 ### What I am in the process of learning
 
