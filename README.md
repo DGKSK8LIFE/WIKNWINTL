@@ -73,6 +73,7 @@
   - Google translate api
   - Webhooks (concept/architecture)
   - Session auth (architecture and implementation)
+  - JWT auth (arhictecture)
   
 ## What I want to learn
 
