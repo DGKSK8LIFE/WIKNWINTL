@@ -72,6 +72,7 @@
   - Google cloud platform
   - Google translate api
   - Webhooks (concept/architecture)
+  - Session auth (architecture and implementation)
   
 ## What I want to learn
 
