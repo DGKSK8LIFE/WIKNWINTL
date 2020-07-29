@@ -73,7 +73,8 @@
   - Google translate api
   - Webhooks (concept/architecture)
   - Session auth (architecture and implementation)
-  - JWT auth (arhictecture)
+  - JWT auth (architecture)
+  - Capital Allocation (equity vs debt)
   
 ## What I want to learn
 
