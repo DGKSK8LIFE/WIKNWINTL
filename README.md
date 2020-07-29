@@ -75,6 +75,7 @@
   - Session auth (architecture and implementation)
   - JWT auth (architecture)
   - Capital Allocation (equity vs debt)
+  - Wordpress
   
 ## What I want to learn
 
