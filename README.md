@@ -126,6 +126,7 @@
   - MariaDB
   - CockRoachDB
   - Cassandra
+  - ML/AI
   
 ### Tools I want to use
 
