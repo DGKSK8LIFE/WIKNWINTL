@@ -112,6 +112,7 @@
   
 ### What I am in the process of learning
 
+  - VueJS
  
 ### What I may want to learn/implement in the future
 
