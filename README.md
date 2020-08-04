@@ -106,6 +106,7 @@
   - NGINX
   - Traefik
   - React-Native
+  - Redux
   
 ### What I am in the process of learning
 
