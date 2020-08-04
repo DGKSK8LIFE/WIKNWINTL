@@ -100,7 +100,6 @@
   - Kotlin
   - Graphic design/blender
   - Scala
-  - VueJS
   - Firebase
   - Terraform
   - C#
