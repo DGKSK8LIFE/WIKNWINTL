@@ -125,6 +125,7 @@
   - CockRoachDB
   - Cassandra
   - ML/AI
+  - Angular
   
 ### Tools I want to use
 
