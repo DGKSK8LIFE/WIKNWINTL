@@ -107,6 +107,8 @@
   - Traefik
   - React-Native
   - Redux
+  - Native development
+  - IOS development
   
 ### What I am in the process of learning
 
