@@ -76,6 +76,7 @@
   - JWT auth (architecture)
   - Capital Allocation (equity vs debt)
   - Wordpress
+  - Unity (procederal terrain creation)
   
 ## What I want to learn
 
@@ -110,6 +111,7 @@
   - Native development
   - IOS development
   - Telephony
+  - Unity and UE4 game development
   
 ### What I am in the process of learning
 
