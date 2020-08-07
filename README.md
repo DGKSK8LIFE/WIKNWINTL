@@ -109,6 +109,7 @@
   - Redux
   - Native development
   - IOS development
+  - Telephony
   
 ### What I am in the process of learning
 
