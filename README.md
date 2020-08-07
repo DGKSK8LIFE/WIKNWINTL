@@ -77,6 +77,8 @@
   - Capital Allocation (equity vs debt)
   - Wordpress
   - Unity (procederal terrain creation)
+  - Running an Ethereum node
+  - Blockchain architecture
   
 ## What I want to learn
 
