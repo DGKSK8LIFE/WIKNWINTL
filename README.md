@@ -114,6 +114,7 @@
   - IOS development
   - Telephony
   - Unity and UE4 game development
+  - MongoDB
   
 ### What I am in the process of learning
 
