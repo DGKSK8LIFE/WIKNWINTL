@@ -115,7 +115,7 @@
   - Telephony
   - Unity and UE4 game development
   - MongoDB
-  - Dart
+  - Dart/Flutter
   
 ### What I am in the process of learning
 
