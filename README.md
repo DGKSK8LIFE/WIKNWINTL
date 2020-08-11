@@ -136,4 +136,4 @@
   
 ### What I am in the process of learning
 
-Redux
+ - Redux
