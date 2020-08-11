@@ -83,6 +83,7 @@
   - Ino
   - Test automation
   - Deployment
+  - Github Actions
   
 ## What I want to learn
 
@@ -136,7 +137,3 @@
   - Cassandra
   - ML/AI
   - Angular
-  
-### Tools I want to use
-
-  - Github Actions
