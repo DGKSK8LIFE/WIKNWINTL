@@ -82,13 +82,14 @@
   - abstracted C++
   - Ino
   - Test automation
+  - Deployment
   
 ## What I want to learn
 
+  - WebRTC
   - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
   - CDN
-  - Deployment
   - gRPC
   - Implementations of computer science in agriculture
   - gRPC/protobufs
