@@ -71,7 +71,7 @@
   - MomentJS
   - Google cloud platform
   - Google translate api
-  - Webhooks (concept/architecture)
+  - Webhooks
   - Session auth (architecture and implementation)
   - JWT auth (architecture)
   - Capital Allocation (equity vs debt)
