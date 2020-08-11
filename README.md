@@ -117,6 +117,7 @@
   - Unity and UE4 game development
   - MongoDB
   - Dart/Flutter
+  - ChakraUI
   
 ### What I am in the process of learning
 
