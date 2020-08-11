@@ -83,6 +83,7 @@
   - Test automation
   - Deployment
   - Github Actions
+  - Project management (especially in context to open source)
   
 ## What I want to learn
 
