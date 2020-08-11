@@ -118,17 +118,12 @@
   - MongoDB
   - Dart/Flutter
   - ChakraUI
-  
-### What I am in the process of learning
-
-### What I may want to learn/implement in the future
-
-  - NoSQL
+  - Swift
   - Database Sharding
   - UDP
   - SOAP
   - XML
-  - PHP??!!?? o_o
+  - PHP
   - C++/gcc
   - Java Spring
   - Raft
@@ -137,3 +132,5 @@
   - Cassandra
   - ML/AI
   - Angular
+  
+### What I am in the process of learning
