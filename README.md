@@ -81,16 +81,15 @@
   - Blockchain architecture
   - abstracted C++
   - Ino
+  - Test automation
   
 ## What I want to learn
 
-  - Ruby/Rails
   - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
   - CDN
   - Deployment
   - gRPC
-  - Test automation
   - Implementations of computer science in agriculture
   - gRPC/protobufs
   - AutoHotKey
