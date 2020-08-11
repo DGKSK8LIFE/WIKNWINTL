@@ -79,6 +79,8 @@
   - Unity (procederal terrain creation)
   - Running an Ethereum node
   - Blockchain architecture
+  - abstracted C++
+  - Ino
   
 ## What I want to learn
 
