@@ -86,7 +86,6 @@
   - Microservices (Kubernetes/Docker Swarm)
   - OAUTH
   - CDN
-  - Webhooks
   - Deployment
   - gRPC
   - Test automation
