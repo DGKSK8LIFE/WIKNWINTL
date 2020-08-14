@@ -133,6 +133,7 @@
   - Cassandra
   - ML/AI
   - Angular
+  - Scss
   
 ### What I am in the process of learning
 
