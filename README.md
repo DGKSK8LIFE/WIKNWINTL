@@ -115,29 +115,20 @@
   - React-Native
   - Redux
   - Native development
-  - IOS development
   - Telephony
   - Unity and UE4 game development
   - MongoDB
-  - Dart/Flutter
-  - ChakraUI
-  - Swift
   - Database Sharding
   - UDP
   - SOAP
   - XML
-  - PHP
   - C++/gcc
   - Java Spring
   - Raft
-  - MariaDB
-  - CockRoachDB
-  - Cassandra
-  - ML/AI
-  - Angular
   - Scss
   - Browser Engineering
   - Apollo Server
   - Apollo Federation
+  - ThreeJS
   
 ### What I am in the process of learning
