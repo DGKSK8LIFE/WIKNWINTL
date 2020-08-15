@@ -84,6 +84,7 @@
   - Deployment
   - Github Actions
   - Project management (especially in context to open source)
+  - AWS Lambda (idea/architecture)
   
 ## What I want to learn
 
