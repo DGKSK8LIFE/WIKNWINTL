@@ -137,5 +137,7 @@
   - Angular
   - Scss
   - Browser Engineering
+  - Apollo Server
+  - Apollo Federation
   
 ### What I am in the process of learning
