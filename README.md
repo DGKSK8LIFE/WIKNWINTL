@@ -85,6 +85,7 @@
   - Github Actions
   - Project management (especially in context to open source)
   - AWS Lambda (idea/architecture)
+  - Apache Kafka (architecture/idea)
   
 ## What I want to learn
 
@@ -138,5 +139,3 @@
   - Browser Engineering
   
 ### What I am in the process of learning
-
-  - Apache Kafka
