@@ -135,6 +135,7 @@
   - ML/AI
   - Angular
   - Scss
+  - Browser Engineering
   
 ### What I am in the process of learning
 
