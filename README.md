@@ -86,13 +86,14 @@
   - Project management (especially in context to open source)
   - AWS Lambda (idea/architecture)
   - Apache Kafka (architecture/idea)
+  - CDN
   
 ## What I want to learn
 
   - WebRTC
-  - Microservices (Kubernetes/Docker Swarm)
+  - Microservices (Kubernetes)
   - OAUTH
-  - CDN
+  
   - gRPC
   - Implementations of computer science in agriculture
   - gRPC/protobufs
