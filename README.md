@@ -87,6 +87,7 @@
   - AWS Lambda (idea/architecture)
   - Apache Kafka (architecture/idea)
   - CDN
+  - GCC/C
   
 ## What I want to learn
 
@@ -119,7 +120,7 @@
   - UDP
   - SOAP
   - XML
-  - C++/gcc
+  - C++
   - Java Spring
   - Raft
   - Scss
