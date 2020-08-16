@@ -88,6 +88,7 @@
   - Apache Kafka (architecture/idea)
   - CDN
   - GCC/C
+  - Scss
   
 ## What I want to learn
 
@@ -97,7 +98,6 @@
   - gRPC
   - Webpack
   - TailwindCSS
-  - Deno
   - Elixir
   - Rust
   - Writing compilers
@@ -109,7 +109,6 @@
   - Terraform
   - C#
   - NGINX
-  - Traefik
   - React-Native
   - Redux
   - Native development
@@ -123,7 +122,6 @@
   - C++
   - Java Spring
   - Raft
-  - Scss
   - Browser Engineering
   - Apollo Server
   - Apollo Federation
