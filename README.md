@@ -89,6 +89,8 @@
   - CDN
   - GCC/C
   - Scss
+  - Bootstrap
+  - React Bootstrap
   
 ## What I want to learn
 
