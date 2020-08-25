@@ -96,6 +96,7 @@
   - Arduino
   - Kubernetes architecture/idea
   - K8s vs docker swarm
+  - Some C#
   
 ## What I want to learn
 
