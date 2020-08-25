@@ -91,6 +91,8 @@
   - Scss
   - Bootstrap
   - React Bootstrap
+  - Raspberry PI
+  - Solidworks
   
 ## What I want to learn
 
