@@ -95,6 +95,7 @@
   - Solidworks
   - Arduino
   - Kubernetes architecture/idea
+  - K8s vs docker swarm
   
 ## What I want to learn
 
