@@ -94,6 +94,7 @@
   - Raspberry PI
   - Solidworks
   - Arduino
+  - Kubernetes architecture/idea
   
 ## What I want to learn
 
