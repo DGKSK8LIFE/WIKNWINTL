@@ -93,6 +93,7 @@
   - React Bootstrap
   - Raspberry PI
   - Solidworks
+  - Arduino
   
 ## What I want to learn
 
