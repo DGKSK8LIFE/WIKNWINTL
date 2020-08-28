@@ -75,7 +75,7 @@
   - JWT auth (architecture)
   - Capital Allocation (equity vs debt)
   - Wordpress
-  - Unity (procederal terrain creation)
+  - Unity
   - Running an Ethereum node
   - Blockchain architecture
   - abstracted C++
@@ -137,4 +137,4 @@
   
 ### What I am in the process of learning
 
-  - Unity
+  - More Unity 
