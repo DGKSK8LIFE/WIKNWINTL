@@ -97,6 +97,7 @@
   - Kubernetes architecture/idea
   - K8s vs docker swarm
   - C#
+  - Raft
   
 ## What I want to learn
 
@@ -129,7 +130,6 @@
   - XML
   - C++
   - Java Spring
-  - Raft
   - Browser Engineering
   - Apollo Server
   - Apollo Federation
