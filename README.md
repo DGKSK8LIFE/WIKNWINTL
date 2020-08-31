@@ -134,6 +134,8 @@
   - Apollo Server
   - Apollo Federation
   - ThreeJS
+  - etcd
+ 
   
 ### What I am in the process of learning
 
