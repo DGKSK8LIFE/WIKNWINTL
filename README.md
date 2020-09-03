@@ -101,6 +101,7 @@
   - Blender
   - memecached (idea/paradigm)
   - etcd (idea/paradigm)
+  - different DB paradigms
   
 ## What I want to learn
 
