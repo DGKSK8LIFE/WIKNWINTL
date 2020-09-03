@@ -99,6 +99,8 @@
   - C#
   - Raft
   - Blender
+  - memecached (idea/paradigm)
+  - etcd (idea/paradigm)
   
 ## What I want to learn
 
