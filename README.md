@@ -98,6 +98,7 @@
   - K8s vs docker swarm
   - C#
   - Raft
+  - Blender
   
 ## What I want to learn
 
@@ -139,5 +140,4 @@
   
 ### What I am in the process of learning
 
-  - Blender
   - K8S
