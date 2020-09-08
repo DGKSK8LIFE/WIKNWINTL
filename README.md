@@ -143,4 +143,4 @@
   
 ### What I am in the process of learning
 
-  - K8S
+  - React-Native
