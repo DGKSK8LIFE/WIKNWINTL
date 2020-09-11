@@ -102,6 +102,7 @@
   - memecached (idea/paradigm)
   - etcd (idea/paradigm)
   - different DB paradigms
+  - React Native
   
 ## What I want to learn
 
@@ -143,4 +144,4 @@
   
 ### What I am in the process of learning
 
-  - React-Native
+  - K8S
