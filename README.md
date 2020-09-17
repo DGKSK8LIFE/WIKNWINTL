@@ -117,7 +117,6 @@
   - Writing compilers
   - Minecraft modding
   - Kotlin
-  - Graphic design/blender
   - Scala
   - Firebase
   - Terraform
