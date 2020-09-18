@@ -103,6 +103,7 @@
   - etcd (idea/paradigm)
   - different DB paradigms
   - React Native
+  - nosql
   
 ## What I want to learn
 
