@@ -140,7 +140,8 @@
   - Apollo Federation
   - ThreeJS
   - etcd
- 
+  - R
+  - Matlab
   
 ### What I am in the process of learning
 
