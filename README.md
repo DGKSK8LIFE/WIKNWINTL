@@ -104,6 +104,7 @@
   - different DB paradigms
   - React Native
   - nosql
+  - MongoDB
   
 ## What I want to learn
 
@@ -144,5 +145,3 @@
   - Matlab
   
 ### What I am in the process of learning
-
-  - MongoDB
