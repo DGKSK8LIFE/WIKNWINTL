@@ -125,7 +125,6 @@
   - Scala
   - Firebase
   - Terraform
-  - C#
   - NGINX
   - React-Native
   - Redux
