@@ -107,6 +107,7 @@
   - MongoDB
   - Keras
   - Tensorflow
+  - Jupyter Notebook
   
 ## What I want to learn
 
