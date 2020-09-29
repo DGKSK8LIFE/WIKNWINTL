@@ -143,7 +143,8 @@
   - etcd
   - R
   - Matlab
+  - Keras
+  - Tensorflow
   
 ### What I am in the process of learning
 
-  - Keras
