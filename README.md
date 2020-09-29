@@ -105,6 +105,8 @@
   - React Native
   - nosql
   - MongoDB
+  - Keras
+  - Tensorflow
   
 ## What I want to learn
 
@@ -143,8 +145,6 @@
   - etcd
   - R
   - Matlab
-  - Keras
-  - Tensorflow
   
 ### What I am in the process of learning
 
