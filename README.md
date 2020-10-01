@@ -109,6 +109,7 @@
   - Tensorflow
   - Jupyter Notebook
   - Ansible (Idea)
+  - Terraform (Idea)
   
 ## What I want to learn
 
