@@ -108,6 +108,7 @@
   - Keras
   - Tensorflow
   - Jupyter Notebook
+  - Ansible
   
 ## What I want to learn
 
