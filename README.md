@@ -110,7 +110,8 @@
   - Jupyter Notebook
   - Ansible (Idea)
   - Terraform (Idea)
-  
+  - Proxying
+
 ## What I want to learn
 
   - WebRTC
