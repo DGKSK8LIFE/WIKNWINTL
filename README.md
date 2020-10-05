@@ -111,6 +111,7 @@
   - Ansible (Idea)
   - Terraform (Idea)
   - Proxying
+  - Homelab
 
 ## What I want to learn
 
