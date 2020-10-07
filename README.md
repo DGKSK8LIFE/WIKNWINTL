@@ -149,7 +149,7 @@
   - etcd
   - R
   - Matlab
+  - php
   
 ### What I am in the process of learning
 
-  - Kubernetes
