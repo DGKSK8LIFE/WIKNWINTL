@@ -150,6 +150,7 @@
   - R
   - Matlab
   - php
+  - RabbitMQ
   
 ### What I am in the process of learning
 
