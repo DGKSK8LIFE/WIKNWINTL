@@ -151,6 +151,7 @@
   - Matlab
   - php
   - RabbitMQ
+  - Network engineering
   
 ### What I am in the process of learning
 
