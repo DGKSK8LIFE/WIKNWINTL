@@ -112,6 +112,7 @@
   - Terraform (Idea)
   - Proxying
   - Homelab
+  - React Spring
 
 ## What I want to learn
 
