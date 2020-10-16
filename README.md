@@ -113,6 +113,8 @@
   - Proxying
   - Homelab
   - React Spring
+  - LocalStorage
+  - Cookies
 
 ## What I want to learn
 
