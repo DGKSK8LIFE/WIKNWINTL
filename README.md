@@ -115,6 +115,7 @@
   - React Spring
   - LocalStorage
   - Cookies
+  - Arch Linux
 
 ## What I want to learn
 
