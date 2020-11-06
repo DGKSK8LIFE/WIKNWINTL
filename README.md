@@ -125,10 +125,7 @@
   - gRPC
   - Webpack
   - TailwindCSS
-  - Elixir
-  - Rust
   - Writing compilers
-  - Minecraft modding
   - Kotlin
   - Scala
   - Firebase
@@ -138,8 +135,6 @@
   - Redux
   - Native development
   - Telephony
-  - Unity and UE4 game development
-  - MongoDB
   - Database Sharding
   - UDP
   - SOAP
