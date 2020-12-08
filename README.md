@@ -152,5 +152,6 @@
   - RabbitMQ
   - HAProxy
   - Network engineering
+  - Shopify
   
 ### What I am in the process of learning
