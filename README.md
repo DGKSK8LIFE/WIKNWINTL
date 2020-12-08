@@ -154,6 +154,3 @@
   - Network engineering
   
 ### What I am in the process of learning
-
-  - Kotlin
-
