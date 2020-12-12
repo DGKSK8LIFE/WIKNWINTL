@@ -55,7 +55,6 @@
   - CSV
   - Typescript
   - Container orchestration (docker compose)
-  - NextJS
   - RTMP
   - Docker-Compose
   - Live streaming architecture
